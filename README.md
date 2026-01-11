@@ -77,8 +77,6 @@ Tech: SQL • Excel • Power BI
 - Business analytics & statistics  
 - Building portfolio projects that look like real company work
 
-Your README is already strong. To level it up, add sections that **prove** skill, not just state it: GitHub stats, certifications, workflow, and contact. Paste the following **after your Current Focus section**.
-
 ---
 
 ### 🧩 How I Work (My Data Workflow)
@@ -106,8 +104,6 @@ Your README is already strong. To level it up, add sections that **prove** skill
 * SQL for Data Analysis
 * Power BI Dashboard Design
 * Python for Data Science
-
-*(Replace with your real certificates as you earn them.)*
 
 ---
 
