@@ -100,15 +100,6 @@ Your README is already strong. To level it up, add sections that **prove** skill
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragyarani&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyarani&layout=compact" height="165"/>
-</p>
-
----
-
 ### 🏆 Certifications & Learning
 
 * Google Data Analytics (In Progress / Completed)
