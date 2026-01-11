@@ -26,9 +26,8 @@ Currently working at **Wipro** and building real-world analytics projects that r
 - 🧠 **Core Skills:** SQL • Python • Power BI • Excel • Pandas • NumPy  
 - ⚙️ **Work:** Data cleaning, EDA, KPI dashboards, automation, reporting  
 - 🌱 **Learning:** Advanced SQL, Statistics, Business Analytics, Cloud (AWS)  
-- 🎯 **Goal:** Become a **Senior Data Analyst / Analytics Lead**  
-- 🌍 **Portfolio:** https://www.pragyarani.in  
-- 📫 **Email:** pragyarani2004@gmail.com  
+- 🎯 **Goal:** Become a **Senior Data Analyst / Analytics Lead**    
+- 📫 **Email:** rpragya858@gmail.com  
 
 ---
 
