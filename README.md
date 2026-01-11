@@ -76,3 +76,62 @@ Tech: SQL • Excel • Power BI
 - Python for automation & EDA  
 - Business analytics & statistics  
 - Building portfolio projects that look like real company work
+
+Your README is already strong. To level it up, add sections that **prove** skill, not just state it: GitHub stats, certifications, workflow, and contact. Paste the following **after your Current Focus section**.
+
+---
+
+### 🧩 How I Work (My Data Workflow)
+
+1. **Understand the Business Problem**
+   Translate vague requirements into measurable KPIs.
+
+2. **Data Collection & Cleaning**
+   SQL queries, Excel preprocessing, Python (Pandas, NumPy).
+
+3. **Exploratory Data Analysis (EDA)**
+   Identify trends, outliers, seasonality, and correlations.
+
+4. **Visualization & Storytelling**
+   Power BI dashboards that decision-makers can act on.
+
+5. **Automation & Optimization**
+   Reduce manual reporting using Python & SQL pipelines.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragyarani&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyarani&layout=compact" height="165"/>
+</p>
+
+---
+
+### 🏆 Certifications & Learning
+
+* Google Data Analytics (In Progress / Completed)
+* SQL for Data Analysis
+* Power BI Dashboard Design
+* Python for Data Science
+
+*(Replace with your real certificates as you earn them.)*
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pragya-shrivastava-3b1221241/)">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Quote
+
+> “Without data, you're just another person with an opinion. With data, you’re a decision maker.”
+
+
